@@ -52,6 +52,3 @@ def total_even_pairs(src)
 
   total
 end
-© 2020 GitHub, Inc.
-  
-end
